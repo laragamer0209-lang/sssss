@@ -7,7 +7,7 @@ import urllib.parse
 from flask import Flask
 
 # Configurações do Telegram
-TELEGRAM_BOT_TOKEN = os.getenv("9005514591:AAGGJE9Uk0UYGeowY276YPhG-l3hRtA44ZA")
+TELEGRAM_BOT_TOKEN = os.getenv("9258426970:AAHFs5fMzATpNrFO-jtSUECL0yy2hFy2OTs")
 
 # Servidor web simples para o Render manter o bot ativo 24/7
 app = Flask(__name__)
